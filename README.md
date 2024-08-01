@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AruniThakshila
+- 👀 I’m interested in software quality assurance and improving software development processes.
+- 🌱 I’m currently learning advanced QA techniques, including Selenium with Java, and enhancing my skills in writing and executing test cases to ensure software quality.
+- 💞️ I’m looking to collaborate on projects related to QA testing, automated testing, and software quality improveme
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love finding and fixing bugs to make software more reliable and efficient!
